@@ -1,1 +1,1 @@
-{"releases":[{"name":"aws-sam","version":"1.2.5"},{"name":"azure-sdk","version":"12.vc102aedd3c66"},{"name":"pull-request-monitoring","version":"1.4.0"},{"name":"windows-azure-storage","version":"357.v36c07129d7d3"}]}
+{"releases":[{"name":"artifactory","version":"3.11.0"},{"name":"bitbucket","version":"1.1.28"},{"name":"matlab","version":"2.5.0"},{"name":"qualys-cs","version":"1.6.2.4"},{"name":"qualys-was","version":"2.0.7"}]}
