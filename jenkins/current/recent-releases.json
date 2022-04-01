@@ -1,1 +1,1 @@
-{"releases":[{"name":"pipeline-model-api","version":"2.2075.vce74e77b_ce40"},{"name":"pipeline-model-definition","version":"2.2075.vce74e77b_ce40"},{"name":"pipeline-model-extensions","version":"2.2075.vce74e77b_ce40"},{"name":"pipeline-stage-tags-metadata","version":"2.2075.vce74e77b_ce40"}]}
+{"releases":[{"name":"design-library","version":"41.v015c02903095"},{"name":"testingbot","version":"1.17"},{"name":"wetest-automation","version":"1.8"}]}
