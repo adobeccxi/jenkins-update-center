@@ -1,1 +1,1 @@
-{"releases":[{"name":"compact-columns","version":"1.199.v61a_f51712072"},{"name":"simple-theme-plugin","version":"191.vcd207ef9dd24"}]}
+{"releases":[{"name":"amazon-ecr","version":"1.136.v914ea_5948634"},{"name":"bitbucket-scm-filter-aged-refs","version":"47.v5450b_74d684c"},{"name":"compact-columns","version":"1.199.v61a_f51712072"},{"name":"github-scm-filter-aged-refs","version":"47.v5450b_74d684c"},{"name":"kubernetes","version":"4248.vfa_9517757b_b_a_"}]}
