@@ -1,1 +1,1 @@
-{"releases":[{"name":"artifactory","version":"4.0.7"},{"name":"credentials","version":"1350.v1b_df4d227d1b_"},{"name":"credentials-binding","version":"679.v6288482e873c"}]}
+{"releases":[{"name":"autify","version":"110.v1527816e6603"},{"name":"mina-sshd-api-common","version":"2.13.1-117.v2f1a_b_66ff91d"},{"name":"mina-sshd-api-core","version":"2.13.1-117.v2f1a_b_66ff91d"},{"name":"mina-sshd-api-scp","version":"2.13.1-117.v2f1a_b_66ff91d"},{"name":"mina-sshd-api-sftp","version":"2.13.1-117.v2f1a_b_66ff91d"},{"name":"support-core","version":"1459.va_f527ce9a_d64"}]}
