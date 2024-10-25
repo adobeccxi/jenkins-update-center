@@ -1,1 +1,1 @@
-{"releases":[{"name":"bitbucket-scm-filter-aged-refs","version":"58.v2ca_09cc16938"},{"name":"github-scm-filter-aged-refs","version":"58.v2ca_09cc16938"},{"name":"global-build-stats","version":"314.v2c5018728d76"},{"name":"oic-auth","version":"4.418.vccc7061f5b_6d"}]}
+{"releases":[{"name":"build-failure-analyzer","version":"2.5.3"},{"name":"requests","version":"3.4"}]}
