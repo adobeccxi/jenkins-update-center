@@ -1,1 +1,1 @@
-{"releases":[{"name":"artifact-manager-s3","version":"886.v49a_e5d7857cc"},{"name":"build-monitor-plugin","version":"1.14-943.vf82794123d4e"},{"name":"eggplant-runner","version":"0.0.1.278.ve95892534fd1"},{"name":"gitlab-plugin","version":"1.9.6"},{"name":"google-compute-engine","version":"4.580.v005441dfeea_d"},{"name":"simple-queue","version":"1.4.6"},{"name":"simple-queue","version":"1.4.5"}]}
+{"releases":[{"name":"collapsing-console-sections","version":"1.10.0"},{"name":"servicenow-devops","version":"5.0.0"},{"name":"servicenow-devops","version":"5.0.0-beta-1"}]}
