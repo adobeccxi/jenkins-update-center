@@ -1,1 +1,1 @@
-{"releases":[{"name":"cloudbees-bitbucket-branch-source","version":"910.v5b_9b_36e0379e"},{"name":"cloudbees-bitbucket-branch-source","version":"909.v200b_56ca_b_2fc"},{"name":"dockerhub-notification","version":"2.7.3"},{"name":"ec2","version":"1751.v47818f82a_83d"}]}
+{"releases":[{"name":"cucumber-reports","version":"5.8.4-test"},{"name":"cucumber-reports","version":"5.8.4"},{"name":"cvs","version":"469.v57a_96d4f6886"},{"name":"sauce-ondemand","version":"1.215"}]}
