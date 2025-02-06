@@ -1,1 +1,1 @@
-{"releases":[{"name":"ansible-tower","version":"0.17.0"},{"name":"build-history-metrics-plugin","version":"141.v371b_7a_d37753"},{"name":"checks-api","version":"2.2.2"},{"name":"commons-math3-api","version":"3.6.1-38.vb_753c9382184"},{"name":"pipeline-graph-view","version":"409.v98f212e980b_4"}]}
+{"releases":[{"name":"pipeline-rest-api","version":"2.35"},{"name":"pipeline-stage-view","version":"2.35"}]}
