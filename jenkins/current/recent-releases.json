@@ -1,1 +1,1 @@
-{"releases":[{"name":"sonar-quality-gates","version":"348.v05e3e44d23ee"},{"name":"validating-yaml-parameter","version":"277.v6cc9a_b_05555a_"}]}
+{"releases":[{"name":"buildresult-trigger","version":"1.01"},{"name":"fstrigger","version":"1.02"},{"name":"mail-watcher-plugin","version":"1.20"},{"name":"support-core","version":"1575.v49b_01a_460e3b_"}]}
