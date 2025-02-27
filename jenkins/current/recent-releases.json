@@ -1,1 +1,1 @@
-{"releases":[{"name":"artifact-manager-s3","version":"902.v39b_3d56b_88b_5"},{"name":"google-metadata-plugin","version":"0.6.70.v87a_e90994a_32"},{"name":"job-restrictions","version":"216.v0732cc7fb_076"}]}
+{"releases":[{"name":"blackduck-security-scan","version":"2.1.0"},{"name":"build-failure-analyzer","version":"2.5.4"},{"name":"conjur-credentials","version":"2.2.4"},{"name":"docker-workflow","version":"603.va_6964865a_9b_9"},{"name":"flyway-api","version":"11.3.4-243.vc336b_55e1cb_9"},{"name":"pipeline-build-step","version":"557.v95d96f77b_2b_8"}]}
