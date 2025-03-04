@@ -1,1 +1,1 @@
-{"releases":[{"name":"ec2","version":"1869.v73998b_605c4d"},{"name":"favorite-view","version":"19.v7d532cccd44e"},{"name":"pipeline-input-step","version":"517.vf8e782ee645c"}]}
+{"releases":[{"name":"alibabacloud-ecs","version":"1.25"},{"name":"blueocean-display-url","version":"2.4.4"},{"name":"pubsub-light","version":"1.19"},{"name":"sse-gateway","version":"1.28"},{"name":"xygeni-sensor","version":"1.4"}]}
